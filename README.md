@@ -1,8 +1,8 @@
 # Currency ExchangeRate Converter FastAPI
 
 🧠 Architecture
-FastAPI Backend  →  Live Exchange Rates API
+ -FastAPI Backend  →  Live Exchange Rates API
         ↓
-SQLite (History Storage)
+ -SQLite (History Storage)
         ↓
-Streamlit Dashboard (UI like Google Finance)
+-Streamlit Dashboard (UI like Google Finance)
